@@ -1,8 +1,8 @@
 # Hi 👋, I'm Himanshu</h1>
 ### A passionate Full Stack Developer from India, Who is trying to .</h3>
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhijit25Mishra&theme=dark&show_icons=true&locale=en&layout=compact" alt="Abhijit25Mishra" /></p>
+<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu042001&theme=dark&show_icons=true&locale=en&layout=compact" alt="himanshu042001" /></p>
 
-<p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Abhijit25Mishra&theme=dark&show_icons=true&locale=en" alt="Abhijit25Mishra"  ></p>
+<p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=himanshu042001&theme=dark&show_icons=true&locale=en" alt="himanshu042001"  ></p>
 
 - I am 22 years old student who loves programming.
 - I am learning about systems, and why they are built the way they are.
@@ -11,9 +11,8 @@
 <h3 align="left">Contact with me:</h3>
 
 <p>
-<a href="https://www.linkedin.com/in/abhijit-mishra-52b6b31b3/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-<a href="abhijit25mishra@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-   <a href="https://codeforces.com/profile/panda_2500"><img align="left" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /> </a>
+<a href="https://www.linkedin.com/in/himanshu-mishra-a03123173/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="hmshekhar04@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
    <a href="https://abhijit-mishra-sepia.vercel.app/"><img align="left" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
 </p>
    
