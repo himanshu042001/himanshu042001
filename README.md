@@ -1,5 +1,5 @@
 # Hi 👋, I'm Himanshu</h1>
-### A passionate Full Stack Developer from India, Who is trying to  .</h3>
+### A passionate Full Stack Developer from India .</h3>
 <p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu042001&theme=dark&show_icons=true&locale=en&layout=compact" alt="himanshu042001" /></p>
 
 <p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=himanshu042001&theme=dark&show_icons=true&locale=en" alt="himanshu042001"  ></p>
