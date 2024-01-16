@@ -1,12 +1,11 @@
-# Hi 👋, I'm Abhijit</h1>
-### A passionate Full Stack Developer from India, Who is trying to watch more sunsets than Netflix.</h3>
+# Hi 👋, I'm Himanshu</h1>
+### A passionate Full Stack Developer from India, Who is trying to .</h3>
 <p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhijit25Mishra&theme=dark&show_icons=true&locale=en&layout=compact" alt="Abhijit25Mishra" /></p>
 
 <p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Abhijit25Mishra&theme=dark&show_icons=true&locale=en" alt="Abhijit25Mishra"  ></p>
 
-- I am 21 years old student who loves programming.
+- I am 22 years old student who loves programming.
 - I am learning about systems, and why they are built the way they are.
-- I currently work as a data engineer at Jio Platforms. 
 - I would be love to collaborate and build together. DM me on linkedin or gmail.
 
 <h3 align="left">Contact with me:</h3>
@@ -117,7 +116,7 @@
 
 
 <!--
-**Abhijit25Mishra/Abhijit25Mishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**himanshu042001/himanshu042001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
